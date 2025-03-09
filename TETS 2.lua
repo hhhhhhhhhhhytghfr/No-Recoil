@@ -1,4 +1,4 @@
----                              R E C O I L  C O N T R O L                               ----
+---                            R E C O I L  C O N T R O L                               ----
 
 EnableRCS = true --- When Set to false, it'll turn off Recoil Control!
 
